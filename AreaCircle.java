@@ -6,6 +6,8 @@ public class AreaCircle {
 		Scanner in = new Scanner(System.in);
 		
 		System.out.println(areaCalculator(in.nextDouble()));
+        System.out.println(areaCalculator(in.nextDouble())/2);
+        
 	}
 
 	
